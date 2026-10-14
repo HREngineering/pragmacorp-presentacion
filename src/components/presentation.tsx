@@ -58,7 +58,7 @@ function Cover() {
           <span>“Siempre hacia lo mejor”</span>
         </p>
         <p className="lede">
-          El sitio ya está publicado. Esta presentación recorre qué contiene, cómo está
+          El sitio demo ya está publicado. Esta presentación recorre qué contiene, cómo está
           construido y cómo convierte una visita en cita, boletín o conversación.
         </p>
         <div className="meta-row">
