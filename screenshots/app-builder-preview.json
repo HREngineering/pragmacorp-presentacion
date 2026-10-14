@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pragma — Presentación del sitio",
+      "hasCanvas": false,
+      "bodyTextLen": 498,
+      "bodyTextHash": "cd8b29bf91c7d826eaefe1be3a5f32dddf188d384ce984640ac1d6e9c0212c64",
+      "bodyTextPrefix": "PRAGMA Presentación del sitio Portada Índice 01 / 12 PRESENTACIÓ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pragma — Presentación del sitio",
+      "hasCanvas": false,
+      "bodyTextLen": 446,
+      "bodyTextHash": "0a6351608eed324ecc32eff52f11503e396cf0e14d3ec9a216ea35f35d03b1e4",
+      "bodyTextPrefix": "PRAGMA Índice 01 / 12 PRESENTACIÓN PARA EL CLIENTE · OCTUBRE 202",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
