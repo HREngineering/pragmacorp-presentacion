@@ -47,7 +47,7 @@ function Cover() {
   return (
     <div className="cover">
       <div className="cover-copy">
-        <p className="kicker">Presentación para el cliente · Octubre 2026</p>
+        <p className="kicker">Presentación para Pragma · Octubre 2026</p>
         <h1>
           PRAGMA
           <br />
