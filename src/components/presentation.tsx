@@ -32,7 +32,7 @@ const SHOTS = [
 function Mark() {
   return (
 <img
-  src="/pragma-logo.ico"
+  src="/favicon.ico"
   alt="PragmaCorp"
   className="mark"
   width={32}
