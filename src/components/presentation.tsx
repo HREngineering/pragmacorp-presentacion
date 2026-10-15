@@ -31,6 +31,17 @@ const SHOTS = [
 
 function Mark() {
   return (
+<img
+  src="/pragma-logo.ico"
+  alt="PragmaCorp"
+  className="mark"
+  width={32}
+  height={32}
+/>
+);
+}
+/*function Mark() {
+  return (
     <svg className="mark" viewBox="0 0 36 36" aria-hidden="true">
       <rect x="3.2" y="3.2" width="29.6" height="29.6" rx="3" fill="none" stroke="currentColor" strokeWidth="1.7" />
       <path
@@ -42,7 +53,7 @@ function Mark() {
     </svg>
   );
 }
-
+*/
 function Cover() {
   return (
     <div className="cover">
