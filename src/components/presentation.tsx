@@ -108,7 +108,7 @@ function Entrega() {
   return (
     <>
       <div className="slide-head">
-        <p className="kicker">Qué se entregó</p>
+        <p className="kicker">Qué se entrega?</p>
         <h2>Una página para explicar, convencer y dejar los datos.</h2>
         <p className="lede">
           El titular publicado es «Soluciones financieras para impulsar tu crecimiento».
